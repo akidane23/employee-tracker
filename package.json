@@ -1,7 +1,7 @@
 {
   "name": "employee_tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description this is a command-line application that accepts user input to manage a company's employee database. AS a business owner you will be able to view and manage the departments, roles, and employees in your company. Therefor, you can organize and plan your business.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -19,5 +19,16 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akidane23/employee-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akidane23/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/akidane23/employee-tracker#readme"
 }
