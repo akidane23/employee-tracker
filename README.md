@@ -33,7 +33,7 @@ This application is a command-line application that accepts user input to manage
 
 * In an another terminal, run npm start
 
-After you finish with the application in your terminal, navigate to exit and press enter to exit the quit the application. Go back to Mysql and write "exit" or \q" to terminate.
+After you finish with the application in your terminal, navigate to exit and press enter to quit the application. Go back to Mysql and write "exit" or \q" to terminate.
 
 ## Mock-Up
 https://watch.screencastify.com/v/mEMb2uHqmlBhKfkUAViy
