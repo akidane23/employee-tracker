@@ -1,4 +1,4 @@
-# Employee-Tracker
+# Manage-Employee-Database
 
 ## Description
 This application is a command-line application that accepts user input to manage a company's employee database. Using this application, a business owner will be able to view and manage the departments, roles, and employees in their company. The application gives a client the ability to plan for and/or organiz their business.
@@ -33,8 +33,10 @@ This application is a command-line application that accepts user input to manage
 
 * In an another terminal, run npm start
 
+After you finish with the application in your terminal, navigate to exit and press enter to exit the quit the application. Go back to Mysql and write "exit" or \q" to terminate.
+
 ## Mock-Up
-https://watch.screencastify.com/v/GAUgpYJpXwt5nUNnpb4T
+https://watch.screencastify.com/v/mEMb2uHqmlBhKfkUAViy
 
 ## Acceptance Criteria
 WHEN I start the application
