@@ -1,21 +1,40 @@
-# employee-tracker2# note-taker
+# Employee-Tracker
 
 ## Description
-this is a command-line application that accepts user input to manage a company's employee database. AS a business owner you will be able to view and manage the departments, roles, and employees in your company. Therefor, you can organize and plan your business.
+This application is a command-line application that accepts user input to manage a company's employee database. Using this application, a business owner will be able to view and manage the departments, roles, and employees in their company. The application gives a client the ability to plan for and/or organiz their business.
 
 ## Technologies Used
-Node.js
-Inquirer
-MySQL
+* Node.js
+
+* Inquirer
+
+* MySQL2
 
 ## As a User
-clone the repo
+* Clone the repo
 
-install dependencies: npm install
+* Install dependencies: npm install
 
-update connection.js with mysql credentials 
+* Update connection.js with mysql credentials 
 
-mysql shell: source db/db.sql
+* Create a .env file with HOST, DB_USER and PASSWORD information
+
+* Mysql shell: source db/db.sql
+
+## Run Code / Initiate Application
+
+* Log into mysql and create/seed the database
+
+* Add Source db.sql
+
+* Add Source schema.sql
+
+* Add Source seeds.sql
+
+* In an another terminal, run npm start
+
+## Mock-Up
+https://watch.screencastify.com/v/Rf1adqJo85DdYJWmYD8I
 
 ## Acceptance Criteria
 WHEN I start the application
@@ -50,6 +69,5 @@ WHEN I choose to update an employee role
 
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 
-## Mock-Up Demo
-https://watch.screencastify.com/v/Rf1adqJo85DdYJWmYD8I
+
 
