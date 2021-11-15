@@ -25,11 +25,11 @@ This application is a command-line application that accepts user input to manage
 
 * Log into mysql and create/seed the database
 
-* Add Source db.sql
+* Add source db/db.sql
 
-* Add Source schema.sql
+* Add source db/schema.sql
 
-* Add Source seeds.sql
+* Add source db/seeds.sql
 
 * In an another terminal, run npm start
 
