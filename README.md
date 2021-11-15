@@ -34,7 +34,7 @@ This application is a command-line application that accepts user input to manage
 * In an another terminal, run npm start
 
 ## Mock-Up
-https://watch.screencastify.com/v/Rf1adqJo85DdYJWmYD8I
+https://watch.screencastify.com/v/GAUgpYJpXwt5nUNnpb4T
 
 ## Acceptance Criteria
 WHEN I start the application
